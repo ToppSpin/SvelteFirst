@@ -1,14 +1,13 @@
 <script>
     import Button from './button.svelte';
-    import Counter from './counter.svelte';
+    import Counter from './counter.svelte'; 
 </script>
 <div class="boddy">
     <div class="positioning">
-        <Counter />
+        <Counter /> 
         <Button>
             Toggle!
         </Button>
-    
     </div>
 </div>
 
